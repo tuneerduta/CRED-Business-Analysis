@@ -108,3 +108,4 @@ Competitor in market
 
 ![Screenshot 2023-08-05 032837](https://github.com/tuneerdutta/CRED-Business-Analysis/assets/131517578/9f68af1d-0e75-4764-adef-4241f734f00c)
 
+**----Challenges Faced----**
